@@ -42,6 +42,7 @@ namespace AirportSimulation
 
             _landingId = 0; //Odd integers for landing
             _takeOffId = 0; //Even integers for take off
+
             _nPlanes = 0;
             _nRefuse = 0;
             _nTakeoff = 0;

@@ -14,7 +14,6 @@ namespace AirportSimulation
             sim.RunSimulation(2);
 
             Console.ReadLine();
-
         }
     }
 }
