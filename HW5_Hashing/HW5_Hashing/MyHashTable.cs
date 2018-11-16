@@ -62,7 +62,7 @@ namespace HW5_Hashing
                 return _addProbes / _count;
             }
         }
-        public int AverageFindProbs
+        public int AverageFindProbes
         {
             get
             {
